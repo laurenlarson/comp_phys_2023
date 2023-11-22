@@ -7,7 +7,7 @@ Project Members: Bryan Dinh, Lauren Larson, Bryce, Josie Wright
 
 High-energy experiments have allowed physicists to probe matter to find its constituent parts. Much progress has been made over the years thanks to the advancements in particle accelerator technology, which has progressed to allow particles to accelerate to TeV energies. The data from these experiments is large and messy, making it difficult to work with. A single collision can generate many "events," which are occurrences where the accelerator's detectors are able to measure a particle resulting from the collision. These events typically occur in a chain of events, known as a jet. You can imagine a tree branch originating from the trunk, splitting off into smaller branches, and eventually terminating into leaves. The branching is a jet, and the leaves are the resulting particles from the collision. The identification and classification of these particles are important results that physicists around the world work to accomplish. The processing of this data is the primary objective of our project.
 
-<img src=RESOURCES/Collision_Jet.png  width="100%"/>
+<img src=RESOURCES/Collision_Jet.png  width="1107" alt=""/>
 
 *An example particle jet: A particle collision will generate particles that decay, creating a cone of particles which eventually runs into a detector, creating a grid of data points.*
 
