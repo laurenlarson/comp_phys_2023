@@ -1,7 +1,7 @@
 # comp_phys_2023
 
 # Using Machine Learning to Tag Particles From Collider Experiments 
-Project Members: Bryan Dinh, Lauren Larson, Bryce, Josie Wright
+Project Members: Bryan Dinh, Lauren Larson, Bryce Halloway, Josie Wright
 
 ## Project Scope
 
